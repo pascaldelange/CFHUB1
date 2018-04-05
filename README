@@ -1,0 +1,19 @@
+This package can be used to compute crystal-field parameters whithin a DFT+Hubbard I
+calculation, according to the method described in Physical Review B 96 (15), 155132
+
+Installation:
+- You will need the TRIQS package, more specifically its dft_tools and hubbardI modules,
+to use this package. They can be found at http://ipht.cea.fr/triqs, or at https://github.com/TRIQS
+- Simply add the main folder of this package to your PYTHONPATH
+- The module can now be imported as 'import CFHUB1'
+
+Usage:
+- The CF_dmft_utils class contains all the necessary methods to compute the crystal
+field parameters of a material in a DFT+Hubbard I calculation, if used with the TRIQS
+package and its Hubbard I impurity solver.
+- the fit_CF_params file contains methods to perform the fitting of the actual
+CF parameters from a converged projected, local density matrix.
+- The NdCo5 folder contains the necessary files to perform such a calculation on a
+particular rare-earth oxide.
+- The README file in the examples folder contains guidelines on how to perform
+such a calculation in practice

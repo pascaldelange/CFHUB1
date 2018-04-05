@@ -1,0 +1,16 @@
+3                ! Nsort
+1 2 3             ! Mult(Nsort)
+3                ! lmax
+complex
+0 0 0 2          ! l included for each sort
+0 0 0 0          ! l included for each sort
+1
+complex
+0 0 1 0          ! l included for each sort
+0 0 0 0          ! l included for each sort
+complex
+0 0 1 0          ! l included for each sort
+0 0 0 0          ! l included for each sort
+-.15 0.15         ! Energy window relative to E_f 
+0.66974            ! Ef
+

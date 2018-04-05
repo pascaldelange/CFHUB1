@@ -1,0 +1,20 @@
+Uniform shift E0=      -14.11233 eV
+
+SO lambda =   0.12636 eV
+
+CF parametes in Akq convention and in units of K
+
+ Spin UP:
+A20<r^2>:  -256.259123
+A40<r^4>:  -42.192050
+A60<r^6>:  36.187125
+A66<r^6>:  -1038.711182
+
+ Spin DOWN:
+A20<r^2>:  -314.638490
+A40<r^4>:  -22.635345
+A60<r^6>:  36.476194
+A66<r^6>:  -1232.096540
+
+Exchange field Bex:
+0.016751    194.39 (K)    289.41 (Tesla)
